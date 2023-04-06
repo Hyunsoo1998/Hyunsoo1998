@@ -13,6 +13,9 @@
 
 
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo1998&layout=compact&theme=tokyonight)
+
   
 
 
