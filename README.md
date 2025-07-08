@@ -45,14 +45,13 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20" />
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunsu142)](https://solved.ac/hyunsu142/)
 </p>
 
 
 
-   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunsu142)](https://solved.ac/hyunsu142/)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20" />
+  
 <img src="https://img.shields.io/badge/Ansible-EE0000?sytle=for-the-badge&logo=Ansible&logoColor=Green"> 
 <img src="https://img.shields.io/badge/Ansible-326CE5?sytle=for-the-badge&logo=Ansible&logoColor=BLUE">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
