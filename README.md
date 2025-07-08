@@ -44,10 +44,6 @@
 
 ---
 
-<p align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunsu142)](https://solved.ac/hyunsu142/)
-</p>
-
 
 
 <p align="center">
