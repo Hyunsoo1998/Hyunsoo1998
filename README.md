@@ -47,7 +47,8 @@
 
 
 <p align="center">
-  
+
+
 <img src="https://img.shields.io/badge/Ansible-EE0000?sytle=for-the-badge&logo=Ansible&logoColor=Green"> 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?sytle=for-the-badge&logo=Kubernetes&logoColor=BLUE">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
