@@ -11,6 +11,15 @@
 
 ---
 
+## 🚀 Projects
+
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| Large Data MySQL Partitioning | 대용량 데이터를 효율적으로 관리하기 위한 MySQL 파티셔닝 프로젝트 | [파티셔닝 프로젝트](https://github.com/shin-kibeom/large-data-mysql-partitioning) |
+---
+<br>
+
+
 ### 🧰 Skills & Tools
 
 #### 🖥️ System & Infra
