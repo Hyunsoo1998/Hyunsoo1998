@@ -27,7 +27,7 @@
 - **OS**: Red Hat Enterprise Linux, Rocky Linux
 - **Automation**: Ansible
 - **Container & PaaS**: Kubernetes
-- **Virtualization**: Vmware, KVM
+- **Virtualization**: VMware, KVM
 
 #### 💻 Programming
 - Java, C
