@@ -22,6 +22,14 @@
 <br>
 
 
+## 🚀 Labs
+| Title        | Description | Link |
+|--------------|-------------|------|
+| Kubernetes | k8s-cluster 구축 및 빌드 기록 레포지토리 | ([Repository URL](https://github.com/Hyunsoo1998/k8s-cluster-build)) |
+---
+
+<br>
+
 ### 🧰 Skills & Tools
 
 #### 🖥️ System & Infra
